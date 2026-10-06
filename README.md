@@ -8,4 +8,4 @@ Install `qrcode[pil]` in a Python virtual environment, then run `python main.py`
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
